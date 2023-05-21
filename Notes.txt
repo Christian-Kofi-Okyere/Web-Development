@@ -1,0 +1,15 @@
+Lecture 0 : HTML and CSS
+HTML - structure of the webpage
+CSS - style of the webpage
+
+
+HTML: Hypertext Markup Language
+h1 is a tag that can be used to create a large heading at the top of the page
+h6 is the smallest heading
+Types of lists: ordered and unordered lists
+ol: ordered list, ul: unordered list, li: list item
+ a: anchor, href: hyperlink reference
+ th: table heading, tr: table row
+
+
+CSS: Cascading Style Sheets
