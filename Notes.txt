@@ -13,3 +13,5 @@ ol: ordered list, ul: unordered list, li: list item
 
 
 CSS: Cascading Style Sheets
+td: table data
+id: given a unique name , class: giving a not-unique html element a name
